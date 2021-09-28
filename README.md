@@ -1,2 +1,2 @@
-# appointments
+# Appointments
 Appointments app for web
